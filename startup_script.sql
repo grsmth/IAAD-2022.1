@@ -40,7 +40,7 @@ insert into startup values
 
 insert into programador values
 ('30001','10001','João Pedro','M','1993-06-23','joaop@mail.com'),
-('30002','10042','Paula Silva','F','1986-01-10','paulas@mail.com'),
+('30002','10002','Paula Silva','F','1986-01-10','paulas@mail.com'),
 ('30003','10003','Renata Vieira','F','1991-07-05','renatav@mail.com'),
 ('30004','10004','Felipe Santos','M','1976-11-25','felipes@mail.com'),
 ('30005','10001','Ana Cristina','F','1968-02-19','anac@mail.com'),
